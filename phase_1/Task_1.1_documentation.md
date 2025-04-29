@@ -7,5 +7,5 @@ On this task we used the Kali Linux Metasploit framework to compromise a service
 Before attacking, we need to know the IP addresses to ensure that the attack will be directed toward the desired target.
 - **IP addresses screenshots**:
   - [Kali linux IP address](./Task_1_1_Screenshots/Step_1_Kali_IP.png)
-  - [Metasploitable 3 IP address](./phase_1/Task_1.1_documentation.md)
+  - [Metasploitable 3 IP address]
 ## step 2: 

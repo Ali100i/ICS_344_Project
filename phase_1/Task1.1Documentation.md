@@ -1,4 +1,4 @@
-# Task 1.1 documentation
+a# Task 1.1 documentation
 
 On this task we used the Kali Linux Metasploit framework to compromise a service on the Metasploitable2 victim machine.
 
@@ -17,7 +17,7 @@ Before attacking, we need to know the IP addresses to ensure that the attack wil
 ## step 4: running the mfsconsole command then search for the possible vuners inside vsftpd and finally choose the vulnerability with excelant rank.
 - first we run the mfsconsole command then we searched for the vulners command then we used the vulnaribility with the excelant rank.
   - [screenshot proof](Task1Screenshots/Step4UsingMetasploitOnKaliAndSearchingForTheVulnerability.png)
-## step 5:
-
+## step 5: configure the mfconsole with the metasploitable 2 attributes
+- setting the right host to be the metasploitable 2 ip, and we set the right port to be 24. then we run the code to see the s
 ## step 6:
 

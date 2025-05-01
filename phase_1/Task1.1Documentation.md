@@ -27,5 +27,5 @@ Before attacking, we need to know the IP addresses to ensure that the attack wil
     1. whoami command which indicate that the attacker have root privliges.
     2. uname -a command which indicate that the attacker can gather the system information.
     3. cat /etc/shadow command which indicate that the attacker can attempt to read files.
-   - [proof screenshot]()
+   - [proof screenshot](./Task1Screenshots/Step6RunningCommandsOnVictimShell.png)
 

@@ -1,6 +1,6 @@
-#Phase 1:
+# Phase 1 Documentation
 
-##Task 1.1 documentation
+## Task 1.1 
 
 On this task we used the Kali Linux Metasploit framework to compromise a service on the Metasploitable2 victim machine.
 

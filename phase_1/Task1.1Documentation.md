@@ -1,6 +1,6 @@
 # Task 1.1 documentation
 
-On this task we used the Kali Linux Metasploit framework to compromise a service on the Metasploitable3 victim machine.
+On this task we used the Kali Linux Metasploit framework to compromise a service on the Metasploitable2 victim machine.
 
 ---
 ## Step 1: Identify the attacker (Kali Linux) and the victim (Metasploitable 2) IP addresses

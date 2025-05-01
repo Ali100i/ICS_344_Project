@@ -16,7 +16,7 @@ Before attacking, we need to know the IP addresses to ensure that the attack wil
     - [command screenshot](Task1Screenshots/Step3FindingTheExploits.png)
 ## step 4: running the mfsconsole command then search for the possible vuners inside vsftpd and finally choose the vulnerability with excelant rank
 - running the mfsconsole and searching the vulners commands
-  - [screenshot]()
+  - [screenshot](Task1Screenshots/Step4UsingMetasploitOnKaliAndSearchingForTheVulnerability.png)
 ## step 5:
 
 ## step 6:

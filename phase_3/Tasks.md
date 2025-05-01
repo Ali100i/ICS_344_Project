@@ -9,7 +9,7 @@ In this phase, we implemented a defensive strategy to mitigate the `vsftpd_2.3.4
 We located the `vsftpd` binary using the `which` command and removed it to prevent any further exploitation of the backdoor.
 
 - **Screenshot**:  
-  ![Step1Deletingvsftpd](./phase_3/Phase3Screenshots/Step1Deletingvsftpd.png)
+  ![Step1Deletingvsftpd](./Phase3Screenshots/Step1Deletingvsftpd.png)
 
 ---
 
@@ -18,7 +18,7 @@ We located the `vsftpd` binary using the `which` command and removed it to preve
 To prevent any new connections to the FTP service, we blocked incoming traffic on port 21 using the `iptables` firewall.
 
 - **Screenshot**:  
-  ![Step2BlockFTPPort21](./phase_3/Phase3Screenshots/Step2BlockFTPPort21.png)
+  ![Step2BlockFTPPort21](./Phase3Screenshots/Step2BlockFTPPort21.png)
 
 ---
 
@@ -31,19 +31,16 @@ We tested the defense by running the original attack script both before and afte
 The exploit succeeded, giving the attacker a root shell through the backdoor on port 6200.
 
 - **Screenshot**:  
-  ![Step3BeforeDefense](./phase_3/Phase3Screenshots/Step3BeforeDefense.png)
+  ![Step3BeforeDefense](./Phase3Screenshots/Step3BeforeDefense.png)
 
 ### After defense:
 
 The exploit failed to connect to the FTP service and was unable to spawn a shell.
 
 - **Screenshot**:  
-  ![Step3RerunningAttackFails](./phase_3/Phase3Screenshots/Step3RerunningAttackFails.png)
+  ![Step3RerunningAttackFails](./Phase3Screenshots/Step3RerunningAttackFails.png)
 
 ---
-
-> ✅ This completes the Phase 3 requirements:
->
 > - The vulnerable service was removed
 > - Firewall rules were applied to block the attack vector
 > - The exploit was re-tested and confirmed to fail

@@ -15,13 +15,14 @@ We wrote a Bash script named `exploit_vsftpd.sh` that performs the following act
 
 Screenshot of the script:
 
-![Step 1 – Custom script content](./Step1CustomScript.png)
+![Step 1 – Custom script content](./Task2ScreenshotsAndCustomScript/Step1CustomScript.png)
 
 ---
 
 ## Step 2: Executing the script
 
 We ran the script using the following command:
-![Step 2 – Script execution result](./Step2CompromiseUsingScript.png)
+![Step 2 – Script execution result](./Task2ScreenshotsAndCustomScript/Step2CompromiseUsingScript.png)
 ```bash
 ./exploit_vsftpd.sh 192.168.3.21
+```

@@ -14,8 +14,8 @@ Before attacking, we need to know the IP addresses to ensure that the attack wil
 ## step 3: finding the volners that could be exploited:
 - we did it through a command that output the script of the volnerabilities on ports number 21, 22, and 80.
     - [command screenshot](Task1Screenshots/Step3FindingTheExploits.png)
-## step 4: running the mfsconsole command then search for the possible vuners inside vsftpd and finally choose the vulnerability with excelant rank
-- running the mfsconsole and searching the vulners commands
+## step 4: running the mfsconsole command then search for the possible vuners inside vsftpd and finally choose the vulnerability with excelant rank.
+- first we run the mfsconsole command then we searched for the vulners command then we used the vulnaribility with the excelant rank.
   - [screenshot](Task1Screenshots/Step4UsingMetasploitOnKaliAndSearchingForTheVulnerability.png)
 ## step 5:
 

@@ -22,6 +22,6 @@ Before attacking, we need to know the IP addresses to ensure that the attack wil
 ## step 5: configure the mfconsole with the metasploitable 2 attributes
 - setting the right host to be the metasploitable 2 ip, and we set the right port to be 24. then we run the code to start the exploitation
   - [screenshot proof](Task1Screenshots/Step5ExploitRunningSteps.png)
-## step 6: writting commands to see the victim files which indicating the succes of the attack
+## step 6: writting commands to see the victim files which indicate the succes of the attack
 -  
 

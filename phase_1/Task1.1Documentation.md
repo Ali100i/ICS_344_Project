@@ -12,5 +12,6 @@ Before attacking, we need to know the IP addresses to ensure that the attack wil
 - pinging the other virtual machine:
   - [ping screenshot](./Task1Screenshots/Step2NetworkConnectionTest.png)
 ## step 3: finding the volners that could be exploited:
-- command 
+- we did it through a command that output the script of the volnerabilities on ports number 21, 22, and 80.
+    - [command screenshot]() 
 

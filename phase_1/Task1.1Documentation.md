@@ -18,6 +18,7 @@ Before attacking, we need to know the IP addresses to ensure that the attack wil
 - first we run the mfsconsole command then we searched for the vulners command then we used the vulnaribility with the excelant rank.
   - [screenshot proof](Task1Screenshots/Step4UsingMetasploitOnKaliAndSearchingForTheVulnerability.png)
 ## step 5: configure the mfconsole with the metasploitable 2 attributes
-- setting the right host to be the metasploitable 2 ip, and we set the right port to be 24. then we run the code to see the s
+- setting the right host to be the metasploitable 2 ip, and we set the right port to be 24. then we run the code to start the exploit
+    -[screenshot proof]()
 ## step 6:
 

@@ -11,4 +11,6 @@ Before attacking, we need to know the IP addresses to ensure that the attack wil
 ## step 2: ensuer that kali is connected to the Metasploitable 2 virtual machine
 - pinging the other virtual machine:
   - [ping screenshot](./Task1Screenshots/Step2NetworkConnectionTest.png)
+## step 3: finding the volners that could be exploited:
+- command 
 

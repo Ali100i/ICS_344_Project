@@ -6,7 +6,7 @@ This project is part of the ICS344 course and focuses on identifying and exploit
 
 ##  Group Info
 
-- **Group Number:** Group 8
+- **Group Number:** Group 3
 - **Students:**
   - Ali Al Marzouq — ID: 201942110
   - Mohammed Aljubaili — ID: 202031060

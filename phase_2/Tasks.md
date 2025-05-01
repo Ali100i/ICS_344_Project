@@ -1,4 +1,4 @@
-# Phase 2
+# Phase 2 Documentation
 
 In this task, we used Splunk Enterprise installed on the host (Mac) as a SIEM to collect and analyze logs from both the victim (Metasploitable2) and attacker (Kali Linux) machines. The goal is to visualize the attack pattern and assess its impact using real log data.
 

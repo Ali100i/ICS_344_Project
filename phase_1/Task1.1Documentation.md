@@ -9,5 +9,6 @@ Before attacking, we need to know the IP addresses to ensure that the attack wil
   - [Kali linux IP address](./Task1Screenshots/Step1KaliIP.png)
   - [Metasploitable 3 IP address](./Task1Screenshots/Step1MetasploitableIP.png)
 ## step 2: ensuer that kali is connected to the Metasploitable 2 virtual machine
-- [ping screenshot]()
+- pinging the other virtual machine:
+  - [ping screenshot](./Task1Screenshots/Step2NetworkConnectionTest.png)
 

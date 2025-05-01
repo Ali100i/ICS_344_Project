@@ -1,4 +1,4 @@
-# Ics344-Project
+# ICS344-Project
 
 This project is part of the ICS344 course and focuses on identifying and exploiting a vulnerable service, collecting and analyzing the resulting attack data using Splunk, and developing a practical defense mechanism to prevent future exploits. The hands-on approach enhances understanding of offensive and defensive security techniques through structured phases.
 

@@ -19,7 +19,7 @@ Before attacking, we need to know the IP addresses to ensure that the attack wil
 ## step 4: running the mfsconsole command then search for the possible vuners inside vsftpd and finally choose the vulnerability with excelant rank.
 - first we run the mfsconsole command then we searched for the vulners command then we used the vulnaribility with the excelant rank.
   - [screenshot proof](Task1Screenshots/Step4UsingMetasploitOnKaliAndSearchingForTheVulnerability.png)
-## step 5: configure the mfconsole with the metasploitable 2 attributes
+## step 5: configure the mfconsole with the metasploitable 2 attributes and run the attack
 - setting the right host to be the metasploitable 2 ip, and we set the right port to be 24. then we run the code to start the exploitation
   - [screenshot proof](Task1Screenshots/Step5ExploitRunningSteps.png)
 ## step 6: writting commands on Metasploitable 2 to show the attacker ability on interacting with the compromised victim machine
